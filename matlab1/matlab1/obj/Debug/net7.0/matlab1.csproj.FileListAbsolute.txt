@@ -1,0 +1,15 @@
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\bin\Debug\net7.0\matlab1.exe
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\bin\Debug\net7.0\matlab1.deps.json
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\bin\Debug\net7.0\matlab1.runtimeconfig.json
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\bin\Debug\net7.0\matlab1.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\bin\Debug\net7.0\matlab1.pdb
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.csproj.AssemblyReference.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.AssemblyInfoInputs.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.AssemblyInfo.cs
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.csproj.CoreCompileInputs.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\refint\matlab1.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.pdb
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\matlab1.genruntimeconfig.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab1\matlab1\obj\Debug\net7.0\ref\matlab1.dll

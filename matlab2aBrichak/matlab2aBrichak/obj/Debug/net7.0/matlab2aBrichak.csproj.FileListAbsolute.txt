@@ -1,0 +1,15 @@
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\bin\Debug\net7.0\matlab2aBrichak.exe
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\bin\Debug\net7.0\matlab2aBrichak.deps.json
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\bin\Debug\net7.0\matlab2aBrichak.runtimeconfig.json
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\bin\Debug\net7.0\matlab2aBrichak.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\bin\Debug\net7.0\matlab2aBrichak.pdb
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.csproj.AssemblyReference.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.AssemblyInfoInputs.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.AssemblyInfo.cs
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.csproj.CoreCompileInputs.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\refint\matlab2aBrichak.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.pdb
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\matlab2aBrichak.genruntimeconfig.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2aBrichak\matlab2aBrichak\obj\Debug\net7.0\ref\matlab2aBrichak.dll

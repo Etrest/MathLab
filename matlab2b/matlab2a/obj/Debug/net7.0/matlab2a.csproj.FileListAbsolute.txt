@@ -1,0 +1,15 @@
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\bin\Debug\net7.0\matlab2a.exe
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\bin\Debug\net7.0\matlab2a.deps.json
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\bin\Debug\net7.0\matlab2a.runtimeconfig.json
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\bin\Debug\net7.0\matlab2a.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\bin\Debug\net7.0\matlab2a.pdb
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.csproj.AssemblyReference.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.AssemblyInfoInputs.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.AssemblyInfo.cs
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.csproj.CoreCompileInputs.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\refint\matlab2a.dll
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.pdb
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\matlab2a.genruntimeconfig.cache
+D:\Учеба\5 семестр\Математическое программирование\matlab2a\matlab2a\obj\Debug\net7.0\ref\matlab2a.dll
